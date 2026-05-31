@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userearse",
+        "uuid": 6418296,
+        "checksum": "wvwqcp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
